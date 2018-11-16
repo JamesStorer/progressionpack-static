@@ -1,6 +1,6 @@
 # Change build command to 'make build-teamsafe' to hide team folder
 [build]
-  command = "make build"
+  command = "make build-teamsafe"
   publish = "_site/"
 
 [template.environment]
